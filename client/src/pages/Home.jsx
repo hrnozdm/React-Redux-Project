@@ -9,7 +9,7 @@ const Home = () => {
     <div>
       <SliderComp/>
       <Sorting/>
-      <div className='flex justify-between'>
+      <div className='flex'>
         <Category/>
         <Products/>
       </div>
